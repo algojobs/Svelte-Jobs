@@ -7,7 +7,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
 | 11/16/2024 | [Front-End Software Development Intern - Summer 2025](https://algojobs.io/jobs/2212432) | [Bandwidth](https://algojobs.io/company/bandwidth/) | N/A | Raleigh, NC |
-| 11/15/2024 | [Full Stack Developer (focus on Frontend)](https://algojobs.io/jobs/2215990) | [CHEP](https://algojobs.io/company/brambles/) | N/A | Weybridge, Addlestone, United Kingdom / Madrid, Community of Madrid, Spain / Manchester, Lancashire, United Kingdom / ... |
+| 11/15/2024 | [Full Stack Developer (focus on Frontend)](https://algojobs.io/jobs/2215990) | [CHEP](https://algojobs.io/company/brambles/) | N/A | Manchester, Lancashire, United Kingdom / Weybridge, Addlestone, United Kingdom / London, England, United Kingdom / ... |
 | 11/12/2024 | [Principal Software Development Engineer, Yahoo! Finance](https://algojobs.io/jobs/2187202) | [Yahoo](https://algojobs.io/company/ouryahoo/) | $143K - $299K | United States of America - Remote |
 | 11/11/2024 | [693 - Software Engineer](https://algojobs.io/jobs/2176729) | [GoFasti](https://algojobs.io/company/gofasti/) | $1K - $2K | Remote |
 | 11/11/2024 | [Software Engineer (Position located in Bangalore, India)](https://algojobs.io/jobs/2176422) | [KnowBe4](https://algojobs.io/company/knowbe4/) | N/A | Bengaluru, India  |
@@ -19,23 +19,29 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/05/2024 | [Senior Software Engineer (Front End)](https://algojobs.io/jobs/2130105) | [tastytrade](https://algojobs.io/company/tastytrade/) | N/A | Chicago, IL |
 | 11/05/2024 | [Senior/Staff Software Engineer - Full Stack](https://algojobs.io/jobs/2130025) | [Dyno Therapeutics](https://algojobs.io/company/dynotherapeutics/) | N/A | Watertown, MA |
 | 11/04/2024 | [Software Engineer II (Ruby on Rails)](https://algojobs.io/jobs/2131803) | [Fearless](https://algojobs.io/company/fearless/) | $90K - $117K | Baltimore, MD or Remote |
+| 11/01/2024 | [Senior Full Stack/Front-end Software Engineer](https://algojobs.io/jobs/2119182) | [Reinventing Geospatial, Inc. (RGi)](https://algojobs.io/company/rgi/) | $145K - $175K | Denver, CO |
+| 10/31/2024 | [Senior Frontend Engineer (UX/UI, React, Generative AI)](https://algojobs.io/jobs/2117577) | [Citi](https://algojobs.io/company/citi/) | N/A | London  United Kingdom |
 | 10/30/2024 | [Software Developer (Svelte)](https://algojobs.io/jobs/2103820) | [Thoughtworks](https://algojobs.io/company/thoughtworks/) | N/A | Madrid |
 | 10/30/2024 | [Software Developer (Svelte)](https://algojobs.io/jobs/2103825) | [Thoughtworks](https://algojobs.io/company/thoughtworks/) | N/A | Barcelona |
+| 10/29/2024 | [Software Engineer Intern, .NET](https://algojobs.io/jobs/2098044) | [202 - GoTo Technologies Hungary Kft.](https://algojobs.io/company/goto/) | N/A | Remote (Hungary) |
+| 10/29/2024 | [Senior, Software Engineer](https://algojobs.io/jobs/2117749) | [Walmart](https://algojobs.io/company/walmart/) | $117K - $234K | Sunnyvale, CA, United States of America |
+| 10/29/2024 | [Intermediate Fullstack Engineer, Fulfillment: Provision](https://algojobs.io/jobs/2084805) | [GitLab](https://algojobs.io/company/gitlab/) | $98K - $210K | Remote |
 | 10/28/2024 | [Software Development Engineer, Engagement](https://algojobs.io/jobs/2080197) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
+| 10/25/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2065618) | [Contentful](https://algojobs.io/company/contentful/) | $166K - $173K | Denver, Colorado, United States |
+| 10/24/2024 | [Fullstack .NET Developer - Viostream](https://algojobs.io/jobs/2056860) | [Banyan Software](https://algojobs.io/company/banyansoftware/) | N/A | Chennai, Tamil Nadu, India |
+| 10/23/2024 | [Software Engineer III](https://algojobs.io/jobs/2049029) | [Fearless](https://algojobs.io/company/fearless/) | $131K - $161K | Baltimore, MD or Remote |
+| 10/18/2024 | [Fullstack Software Engineer](https://algojobs.io/jobs/2025826) | [PlantingSpace](https://algojobs.io/company/planting.space/) | N/A | Remote |
 | 10/16/2024 | [React Website Developer](https://algojobs.io/jobs/2009798) | [Diligent Corporation](https://algojobs.io/company/diligentcorporation/) | N/A | Galway, Ireland |
 | 10/16/2024 | [React Full Stack Developer](https://algojobs.io/jobs/2009795) | [Diligent Corporation](https://algojobs.io/company/diligentcorporation/) | N/A | Galway, Ireland |
+| 10/16/2024 | [Software Engineer, Full Stack, Experience](https://algojobs.io/jobs/2007939) | [Kandji](https://algojobs.io/company/kandji/) | N/A | Miami |
+| 10/16/2024 | [Senior Mobile Software Developer](https://algojobs.io/jobs/2007027) | [Financeit](https://algojobs.io/company/financeit/) | N/A | Toronto, Ontario, Canada (Hybrid) |
 | 10/16/2024 | [Principal Software Engineer](https://algojobs.io/jobs/1999247) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Belgrade |
 | 10/15/2024 | [Software Development Engineer, Sportsbook](https://algojobs.io/jobs/1990028) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
 | 10/11/2024 | [Software Engineer (Internship)](https://algojobs.io/jobs/1979259) | [Mistral AI](https://algojobs.io/company/mistral/) | N/A | Paris |
 | 10/11/2024 | [Software Developer (TS/SCI with Poly+)](https://algojobs.io/jobs/1983491) | [Maxar](https://algojobs.io/company/maxar/) | $107K - $229K | McLean, VA, United States of America |
 | 10/10/2024 | [Senior Software Engineer, Core Services & Resiliency (Backend Full Stack)](https://algojobs.io/jobs/1961180) | [Viam](https://algojobs.io/company/viamrobotics/) | N/A | New York, NY |
-| 10/09/2024 | [Software Engineer, Web (3+ years of experience)](https://algojobs.io/jobs/1963990) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
-| 10/05/2024 | [Software Engineer, Web (7+ years of experience)](https://algojobs.io/jobs/1934884) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
-| 10/04/2024 | [Software Engineer II - Front End](https://algojobs.io/jobs/1922340) | [CloudZero](https://algojobs.io/company/cloudzero/) | N/A | United States (Remote) |
 | 10/04/2024 | [Software Engineer - Python (TS/SCI Clearance Required)](https://algojobs.io/jobs/1914075) | [North Point Technology](https://algojobs.io/company/northpointtechnology/) | N/A | Sterling, Virginia, United States |
 | 10/04/2024 | [Software Engineer - Python (TS/SCI Clearance Required)](https://algojobs.io/jobs/1914076) | [North Point Technology](https://algojobs.io/company/northpointtechnology/) | N/A | Denver, Colorado, United States |
 | 10/02/2024 | [Senior Software Engineer, Frontend Engineering](https://algojobs.io/jobs/1906529) | [Red Cell Partners](https://algojobs.io/company/redcellpartners/) | $165K - $195K | Remote |
-| 09/27/2024 | [React Full Stack Developer](https://algojobs.io/jobs/1876975) | [Diligent Corporation](https://algojobs.io/company/diligentcorporation/) | N/A | Galway, Ireland |
 | 09/24/2024 | [Staff Software Engineer](https://algojobs.io/jobs/1840857) | [Array](https://algojobs.io/company/array/) | N/A | Remote |
-| 09/19/2024 | [Senior Frontend Engineer (f/m/d)](https://algojobs.io/jobs/1820066) | [Aleph Alpha](https://algojobs.io/company/alephalpha/) | N/A | Berlin |
-| 09/19/2024 | [Senior Frontend Engineer (Flutter & React)](https://algojobs.io/jobs/1816735) | [Provectus](https://algojobs.io/company/provectus/) | N/A | Armenia / Belgrade / Poland (Remote) |
+| 09/19/2024 | [Senior Frontend Engineer (Flutter & React)](https://algojobs.io/jobs/1816735) | [Provectus](https://algojobs.io/company/provectus/) | N/A | Armenia / Poland / Belgrade (Remote) |
