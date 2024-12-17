@@ -1,24 +1,25 @@
 # Svelte Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Svelte Jobs](https://algojobs.io/jobs/svelte)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 12/16/2024 | [Software Engineer II, Full Stack (Capital Orchestration)](https://algojobs.io/jobs/2600687) | [Affirm](https://algojobs.io/company/affirm/) | $160K - $210K | US (Remote) |
+| 12/16/2024 | [AI Software Engineer](https://algojobs.io/jobs/2599890) | [Lottoland](https://algojobs.io/company/lottoland/) | N/A | Gibraltar, Gibraltar |
+| 12/15/2024 | [Software Engineer, Web (3+ years of experience)](https://algojobs.io/jobs/2592592) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
 | 12/12/2024 | [Senior Software Engineer, Sage Home Loans](https://algojobs.io/jobs/2574740) | [Red Ventures](https://algojobs.io/company/redventures/) | N/A | Fort Mill, SC |
 | 12/11/2024 | [Front-end developer](https://algojobs.io/jobs/2571081) | [Micro:bit Educational Foundation](https://algojobs.io/company/micro-bit-educational-foundation/) | $40K - $50K | Oxford, England, United Kingdom (Hybrid) |
 | 12/10/2024 | [Snr. Software Engineer (Python, C#, Vue3) (Remote in the United Kingdom)](https://algojobs.io/jobs/2548792) | [KnowBe4](https://algojobs.io/company/knowbe4/) | N/A | Cheltenham, United Kingdom (Remote) |
 | 12/10/2024 | [Software Developer](https://algojobs.io/jobs/2546134) | [OnLogic](https://algojobs.io/company/onlogic-inc/) | $70K - $90K | South Burlington, Vermont, United States |
 | 12/04/2024 | [Senior Software Engineer (Fullstack), Enterprise Engineering](https://algojobs.io/jobs/2494050) | [Block](https://algojobs.io/company/block/) | $163K - $245K | Bay Area, CA, United States of America |
-| 12/04/2024 | [Fullstack Software Development Engineer, Sportsbook](https://algojobs.io/jobs/2492296) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
 | 12/04/2024 | [Senior Software Engineer - Vue](https://algojobs.io/jobs/2491225) | [3Pillar](https://algojobs.io/company/3pillarglobal/) | N/A | Brno |
 | 12/03/2024 | [Senior Fullstack Engineer (EU)](https://algojobs.io/jobs/2477231) | [Workera AI](https://algojobs.io/company/workera/) | N/A | EU |
 | 12/02/2024 | [Senior Fullstack Developer (NodeJS/ReactJS)](https://algojobs.io/jobs/2461029) | [CodeLink](https://algojobs.io/company/codelink/) | N/A | Ho Chi Minh City, Ho Chi Minh City, Vietnam (Hybrid) |
-| 11/29/2024 | [Software Engineer, Web (3+ years of experience)](https://algojobs.io/jobs/2307481) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
-| 11/28/2024 | [Senior Software Engineer (React.js, PHP) Team Lead - OP01557-OS](https://algojobs.io/jobs/2302637) | [Dev.Pro](https://algojobs.io/company/devpro/) | N/A | São Paulo, São Paulo, Brazil (Remote) |
 | 11/25/2024 | [Senior Frontend Engineer](https://algojobs.io/jobs/2272512) | [Gelato](https://algojobs.io/company/gelato/) | N/A | Berlin, Barcelona, Kyiv, Lahore, Madrid, Stockholm, Tallinn |
 | 11/24/2024 | [Software Engineer](https://algojobs.io/jobs/2272748) | [eko](https://algojobs.io/company/eko/) | N/A | Tel Aviv |
+| 11/22/2024 | [Software Engineer, Sage Home Loans](https://algojobs.io/jobs/2267215) | [Red Ventures](https://algojobs.io/company/redventures/) | N/A | Fort Mill, SC |
 | 11/21/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2257165) | [Ping Identity](https://algojobs.io/company/pingidentity/) | $135K - $153K | US (Remote) |
 | 11/21/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2257164) | [Ping Identity](https://algojobs.io/company/pingidentity/) | N/A | Canada - Remote |
 | 11/18/2024 | [Senior Software Development Engineer - Design System](https://algojobs.io/jobs/2228150) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
@@ -38,9 +39,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/24/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2065618) | [Contentful](https://algojobs.io/company/contentful/) | $166K - $173K | Denver, Colorado, United States |
 | 10/24/2024 | [Fullstack .NET Developer - Viostream](https://algojobs.io/jobs/2056860) | [Banyan Software](https://algojobs.io/company/banyansoftware/) | N/A | Chennai, Tamil Nadu, India |
 | 10/22/2024 | [Software Engineer III](https://algojobs.io/jobs/2049029) | [Fearless](https://algojobs.io/company/fearless/) | $131K - $161K | Baltimore, MD or Remote |
-| 10/18/2024 | [Fullstack Software Engineer](https://algojobs.io/jobs/2025826) | [PlantingSpace](https://algojobs.io/company/planting.space/) | N/A | Remote |
-| 10/16/2024 | [React Website Developer](https://algojobs.io/jobs/2009798) | [Diligent Corporation](https://algojobs.io/company/diligentcorporation/) | N/A | Galway, Ireland |
-| 10/16/2024 | [React Full Stack Developer](https://algojobs.io/jobs/2009795) | [Diligent Corporation](https://algojobs.io/company/diligentcorporation/) | N/A | Galway, Ireland |
-| 10/16/2024 | [Senior Mobile Software Developer](https://algojobs.io/jobs/2007027) | [Financeit](https://algojobs.io/company/financeit/) | N/A | Toronto, Ontario, Canada (Hybrid) |
-| 10/15/2024 | [Principal Software Engineer](https://algojobs.io/jobs/1999247) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Belgrade |
-| 10/14/2024 | [Software Development Engineer, Sportsbook](https://algojobs.io/jobs/1990028) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
