@@ -1,11 +1,21 @@
 # Svelte Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 01/02/2025
+This data is updated weekly, with filled postings removed. Last updated: 01/14/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Svelte Jobs](https://algojobs.io/jobs/svelte)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 01/13/2025 | [Lead Developer Experience Engineer](https://algojobs.io/jobs/2815201) | [Cloudinary](https://algojobs.io/company/cloudinary/) | N/A | United States (Remote) |
+| 01/10/2025 | [Software Engineer Intern-InnoLab](https://algojobs.io/jobs/2811305) | [PayPal](https://algojobs.io/company/paypal/) | N/A | Central Singapore, Singapore |
+| 01/09/2025 | [Software Engineer (New Grad) - US](https://algojobs.io/jobs/2786630) | [Samsara](https://algojobs.io/company/samsara/) | $87K - $113K | Canada - Remote |
+| 01/09/2025 | [Software Engineer (New Grad) - US](https://algojobs.io/jobs/2786629) | [Samsara](https://algojobs.io/company/samsara/) | $89K - $150K | US (Remote) |
+| 01/09/2025 | [Staff Software Engineer - E-Commerce](https://algojobs.io/jobs/2784716) | [SimpliSafe](https://algojobs.io/company/simplisafe/) | N/A | India |
+| 01/06/2025 | [Software Engineer II (Fullstack - Typescript/React)](https://algojobs.io/jobs/2740219) | [Fearless](https://algojobs.io/company/fearless/) | $90K - $117K | Baltimore, MD or Remote |
+| 01/06/2025 | [Fullstack Developer- Lead](https://algojobs.io/jobs/2735934) | [Reveal Health Tech](https://algojobs.io/company/reveal-health-tech/) | N/A | Bengaluru, Karnataka, India (Hybrid) |
+| 01/02/2025 | [Software Engineer III](https://algojobs.io/jobs/2713502) | [Fearless](https://algojobs.io/company/fearless/) | $131K - $161K | Baltimore, MD or Remote |
+| 01/02/2025 | [Staff Frontend Engineer (Svelte, React)](https://algojobs.io/jobs/2714420) | [AirGarage](https://algojobs.io/company/airgarage/) | N/A | San Francisco or Remote (United States) |
+| 12/20/2024 | [Software Engineer](https://algojobs.io/jobs/2655501) | [Alteryx, Inc.](https://algojobs.io/company/alteryx/) | N/A | Bangalore, India |
 | 12/18/2024 | [Software Development Engineer - Design System](https://algojobs.io/jobs/2627303) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
 | 12/16/2024 | [Software Engineer II, Full Stack (Capital Orchestration)](https://algojobs.io/jobs/2600687) | [Affirm](https://algojobs.io/company/affirm/) | $160K - $210K | US (Remote) |
 | 12/16/2024 | [AI Software Engineer](https://algojobs.io/jobs/2599890) | [Lottoland](https://algojobs.io/company/lottoland/) | N/A | Gibraltar, Gibraltar |
@@ -20,12 +30,5 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/25/2024 | [Senior Frontend Engineer](https://algojobs.io/jobs/2272512) | [Gelato](https://algojobs.io/company/gelato/) | N/A | Berlin, Barcelona, Kyiv, Lahore, Madrid, Stockholm, Tallinn |
 | 11/24/2024 | [Software Engineer](https://algojobs.io/jobs/2272748) | [eko](https://algojobs.io/company/eko/) | N/A | Tel Aviv |
 | 11/22/2024 | [Software Engineer, Sage Home Loans](https://algojobs.io/jobs/2267215) | [Red Ventures](https://algojobs.io/company/redventures/) | N/A | Fort Mill, SC |
-| 11/21/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2257165) | [Ping Identity](https://algojobs.io/company/pingidentity/) | $135K - $153K | US (Remote) |
-| 11/21/2024 | [Senior Software Engineer](https://algojobs.io/jobs/2257164) | [Ping Identity](https://algojobs.io/company/pingidentity/) | N/A | Canada - Remote |
 | 11/18/2024 | [Senior Software Development Engineer - Design System](https://algojobs.io/jobs/2228150) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
 | 11/15/2024 | [Front-End Software Development Intern - Summer 2025](https://algojobs.io/jobs/2212432) | [Bandwidth](https://algojobs.io/company/bandwidth/) | N/A | Raleigh, NC |
-| 11/15/2024 | [Full Stack Developer (focus on Frontend)](https://algojobs.io/jobs/2215990) | [CHEP](https://algojobs.io/company/brambles/) | N/A | London, England, United Kingdom / Manchester, Lancashire, United Kingdom / Madrid, Community of Madrid, Spain / ... |
-| 11/12/2024 | [Principal Software Development Engineer, Yahoo! Finance](https://algojobs.io/jobs/2187202) | [Yahoo](https://algojobs.io/company/ouryahoo/) | $143K - $299K | United States of America - Remote |
-| 11/07/2024 | [Software Engineer, Web (7+ years of experience)](https://algojobs.io/jobs/2159326) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
-| 11/06/2024 | [Backend Engineer - Mobile app](https://algojobs.io/jobs/2447163) | [Groupe Dynamite Inc.](https://algojobs.io/company/cagroupedynamite/) | N/A | Ville Mont-Royal, QC, CA |
-| 11/04/2024 | [Senior/Staff Software Engineer - Full Stack](https://algojobs.io/jobs/2130025) | [Dyno Therapeutics](https://algojobs.io/company/dynotherapeutics/) | N/A | Watertown, MA |
