@@ -1,11 +1,21 @@
 # Svelte Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 02/04/2025
+This data is updated weekly, with filled postings removed. Last updated: 02/11/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Svelte Jobs](https://algojobs.io/jobs/svelte)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 02/11/2025 | [Software Engineer II - Front-end](https://algojobs.io/jobs/3106754) | [Blueshift](https://algojobs.io/company/blueshift/) | N/A | Pune, India |
+| 02/07/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3093660) | [Blockdaemon](https://algojobs.io/company/blockdaemon/) | N/A | New York City |
+| 02/07/2025 | [Middle/Senior Frontend Engineer](https://algojobs.io/jobs/3090341) | [Provectus](https://algojobs.io/company/provectus/) | N/A | Armenia / Poland / Serbia (Remote) |
+| 02/06/2025 | [Software Engineer](https://algojobs.io/jobs/3075005) | [Stylitics](https://algojobs.io/company/stylitics/) | N/A | Remote and/or Hybrid |
+| 02/06/2025 | [Fullstаck Software Engineer (NodeJS/TypeScript)](https://algojobs.io/jobs/3075652) | [Ocado Group](https://algojobs.io/company/ocadogroup/) | N/A | Sofia, Bulgaria |
+| 02/06/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3056586) | [Aurora Innovation](https://algojobs.io/company/aurorainnovation/) | $146K - $237K | Pittsburgh, Pennsylvania |
+| 02/05/2025 | [Software Engineer II](https://algojobs.io/jobs/3056589) | [Aurora Innovation](https://algojobs.io/company/aurorainnovation/) | $126K - $201K | Pittsburgh, Pennsylvania |
+| 02/04/2025 | [Software Engineer (New Grad) - Poland](https://algojobs.io/jobs/3048597) | [Samsara](https://algojobs.io/company/samsara/) | N/A | Remote - Poland |
+| 02/04/2025 | [Software Engineering Intern - Poland](https://algojobs.io/jobs/3048588) | [Samsara](https://algojobs.io/company/samsara/) | N/A | Remote - Poland |
+| 02/04/2025 | [Software Engineering Intern - London](https://algojobs.io/jobs/3048591) | [Samsara](https://algojobs.io/company/samsara/) | N/A | London, UK |
 | 02/02/2025 | [Software Engineer II (Backend - Ruby on Rails)](https://algojobs.io/jobs/3017701) | [Fearless](https://algojobs.io/company/fearless/) | $90K - $117K | Baltimore, MD or Remote |
 | 02/02/2025 | [Software Engineer III (Ruby on Rails/React.js)](https://algojobs.io/jobs/3017706) | [Fearless](https://algojobs.io/company/fearless/) | $131K - $161K | Baltimore, MD or Remote |
 | 02/02/2025 | [Lead Software Engineer III (Ruby on Rails/React.js)](https://algojobs.io/jobs/3017703) | [Fearless](https://algojobs.io/company/fearless/) | $131K - $161K | Baltimore, MD or Remote |
@@ -29,7 +39,4 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 12/20/2024 | [Software Engineer](https://algojobs.io/jobs/2655501) | [Alteryx, Inc.](https://algojobs.io/company/alteryx/) | N/A | Bangalore, India |
 | 12/18/2024 | [Software Development Engineer - Design System](https://algojobs.io/jobs/2627303) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
 | 12/16/2024 | [Software Engineer II, Full Stack (Capital Orchestration)](https://algojobs.io/jobs/2600687) | [Affirm](https://algojobs.io/company/affirm/) | $160K - $210K | US (Remote) |
-| 12/16/2024 | [AI Software Engineer](https://algojobs.io/jobs/2599890) | [Lottoland](https://algojobs.io/company/lottoland/) | N/A | Gibraltar, Gibraltar |
 | 12/15/2024 | [Software Engineer, Web (3+ years of experience)](https://algojobs.io/jobs/2592592) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
-| 12/11/2024 | [Front-end developer](https://algojobs.io/jobs/2571081) | [Micro:bit Educational Foundation](https://algojobs.io/company/micro-bit-educational-foundation/) | $40K - $50K | Oxford, England, United Kingdom (Hybrid) |
-| 12/10/2024 | [Snr. Software Engineer (Python, C#, Vue3) (Remote in the United Kingdom)](https://algojobs.io/jobs/2548792) | [KnowBe4](https://algojobs.io/company/knowbe4/) | N/A | Cheltenham, United Kingdom (Remote) |
