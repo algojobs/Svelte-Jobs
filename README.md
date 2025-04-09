@@ -1,18 +1,24 @@
 # Svelte Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 04/01/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/09/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Svelte Jobs](https://algojobs.io/jobs/svelte)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 04/09/2025 | [Principal Software Engineer - (Principal/Senior)](https://algojobs.io/jobs/3716578) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
+| 04/08/2025 | [Software Engineer - Front-End Full Stack (Mid-Senior)](https://algojobs.io/jobs/3716587) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Sydney, Australia |
+| 04/08/2025 | [Principal Software Engineer - Front-End Full Stack](https://algojobs.io/jobs/3716580) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
+| 04/08/2025 | [Full-Stack Software Developer AI/ML Platform](https://algojobs.io/jobs/3722644) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | Toronto, ON, CAN / Vancouver, BC, CAN / Montreal, QC, CAN |
+| 04/08/2025 | [Software Developer - Applications](https://algojobs.io/jobs/3727446) | [CHEP](https://algojobs.io/company/brambles/) | N/A | Weybridge, Addlestone, United Kingdom / Madrid, Community of Madrid, Spain / London, England, United Kingdom / ... |
+| 04/07/2025 | [Full Stack Software Engineer](https://algojobs.io/jobs/3716073) | [Narvar](https://algojobs.io/company/narvar/) | N/A | Remote- Canada |
+| 04/04/2025 | [Digital Design Developer, Opinion](https://algojobs.io/jobs/3700399) | [The New York Times](https://algojobs.io/company/thenewyorktimes/) | $113K - $136K | New York, NY |
+| 04/04/2025 | [Software Engineer (Full Stack)](https://algojobs.io/jobs/3682866) | [LEAP Legal Software](https://algojobs.io/company/leap-legal-software/) | N/A | Sydney, New South Wales, Australia (Hybrid) |
+| 04/03/2025 | [Senior Full Stack Developer](https://algojobs.io/jobs/3683617) | [Syntronic](https://algojobs.io/company/syntronic/) | N/A | Kanata, ON |
+| 04/01/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/3655288) | [CitySwift](https://algojobs.io/company/cityswift/) | N/A | Galway, Ireland or Remote |
 | 03/31/2025 | [Software Engineer - Python (TS/SCI Clearance Required)](https://algojobs.io/jobs/3639528) | [North Point Technology](https://algojobs.io/company/northpointtechnology/) | N/A | Saint Louis, Missouri, United States |
 | 03/31/2025 | [Staff Software Engineer, Alterya](https://algojobs.io/jobs/3642534) | [Chainalysis](https://algojobs.io/company/chainalysis-careers/) | N/A | Tel Aviv Office |
-| 03/31/2025 | [Senior Software Engineer at Scout](https://algojobs.io/jobs/3642266) | [Forum Ventures](https://algojobs.io/company/forum-ventures/) | N/A | US (Remote) |
-| 03/29/2025 | [Software Engineer - Fintech](https://algojobs.io/jobs/3619050) | [Two](https://algojobs.io/company/twoinc/) | N/A | Glasgow, Scotland, United Kingdom (Hybrid) |
-| 03/28/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3625533) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | IN - Bangalore, India |
 | 03/24/2025 | [Software Engineer](https://algojobs.io/jobs/3570872) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | IN - Bangalore, India |
-| 03/24/2025 | [Full-Stack Software Developer - AI/ML Platform](https://algojobs.io/jobs/3574061) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | Vancouver, BC, CAN / AMER - Canada - British Columbia - Remote / Toronto, ON, CAN |
 | 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566476) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Greater Porto Alegre (Remote) |
 | 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566478) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Belo Horizonte, Minas Gerais, Brazil (Remote) |
 | 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566491) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Montevideo, Montevideo, Uruguay (Remote) |
@@ -36,7 +42,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566614) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Guatemala (Remote) |
 | 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566628) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Salvador, Bahia (Remote) |
 | 03/22/2025 | [Software Engineer, Web (7+ years of experience)](https://algojobs.io/jobs/3563202) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
-| 03/20/2025 | [[Job-21012] Senior Fullstack Developer (Node + Angular + React + Python), On-Site Malvern, PA](https://algojobs.io/jobs/3538606) | [CI&T](https://algojobs.io/company/ciandt/) | N/A | Pennsylvania, PA |
 | 03/19/2025 | [Snr. Software Engineer (Python, C#, Rust) (Remote in the United Kingdom)](https://algojobs.io/jobs/3526743) | [KnowBe4](https://algojobs.io/company/knowbe4/) | N/A | London, United Kingdom (Remote) |
 | 03/18/2025 | [Senior Software Engineer, Frontend, Digital Twin Platform](https://algojobs.io/jobs/3508957) | [Woven by Toyota](https://algojobs.io/company/woven-by-toyota/) | N/A | Tokyo (Hybrid) |
 | 03/17/2025 | [Software Engineer](https://algojobs.io/jobs/3498880) | [Alteryx, Inc.](https://algojobs.io/company/alteryx/) | N/A | Bangalore, India |
@@ -62,34 +67,10 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/04/2025 | [Senior Software Engineer-Full Stack Developer](https://algojobs.io/jobs/3345646) | [Samsara](https://algojobs.io/company/samsara/) | $95K - $128K | US (Remote) |
 | 03/04/2025 | [Software Engineer](https://algojobs.io/jobs/3371743) | [Tildei](https://algojobs.io/company/tildei/) | $100K - $200K | New York City, Remote (EST/CST) |
 | 03/04/2025 | [Frontend Software Engineer \| Product R&D, Innovation & Ownership](https://algojobs.io/jobs/3361607) | [CSG](https://algojobs.io/company/csgi/) | N/A | Indonesia Remote |
-| 02/28/2025 | [Senior Software Engineer - Mobile App](https://algojobs.io/jobs/3302816) | [Forseven](https://algojobs.io/company/forseven/) | N/A | Royal Leamington Spa, England, United Kingdom (Hybrid) |
 | 02/27/2025 | [Software Development Engineer](https://algojobs.io/jobs/3315545) | [ADUS-Adobe Inc.](https://algojobs.io/company/adobe/) | $133K - $242K | San Jose, United States of America |
 | 02/26/2025 | [Frontend Engineer (Dublin, CA)](https://algojobs.io/jobs/3282944) | [Articul8](https://algojobs.io/company/articul8/) | N/A | Dublin, CA (HQ) |
 | 02/25/2025 | [Lead Software Engineer, UI](https://algojobs.io/jobs/3253394) | [Couchbase, Inc.](https://algojobs.io/company/couchbaseinc/) | N/A | Bangalore, India |
-| 02/24/2025 | [Software Developer - Applications](https://algojobs.io/jobs/3246005) | [CHEP](https://algojobs.io/company/brambles/) | N/A | Madrid, Community of Madrid, Spain / London, England, United Kingdom / Manchester, Lancashire, United Kingdom / ... |
 | 02/21/2025 | [Frontend Engineer](https://algojobs.io/jobs/3232484) | [Blockdaemon](https://algojobs.io/company/blockdaemon/) | N/A | New York City |
 | 02/21/2025 | [Staff Frontend Engineer](https://algojobs.io/jobs/3232485) | [Blockdaemon](https://algojobs.io/company/blockdaemon/) | $180K - $240K | New York City |
+| 02/12/2025 | [Software Engineer, Frontend](https://algojobs.io/jobs/3136999) | [FIGS](https://algojobs.io/company/figs15/) | $145K - $165K | Santa Monica, CA |
 | 02/11/2025 | [Software Engineer II - Front-end](https://algojobs.io/jobs/3106754) | [Blueshift](https://algojobs.io/company/blueshift/) | N/A | Pune, India |
-| 02/07/2025 | [Middle/Senior Frontend Engineer](https://algojobs.io/jobs/3090341) | [Provectus](https://algojobs.io/company/provectus/) | N/A | Serbia / Armenia / Poland (Remote) |
-| 02/06/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3056586) | [Aurora Innovation](https://algojobs.io/company/aurorainnovation/) | $146K - $237K | Pittsburgh, Pennsylvania |
-| 02/05/2025 | [Software Engineer II](https://algojobs.io/jobs/3056589) | [Aurora Innovation](https://algojobs.io/company/aurorainnovation/) | $126K - $201K | Pittsburgh, Pennsylvania |
-| 02/05/2025 | [Principal Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310756) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
-| 02/05/2025 | [Staff Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310860) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
-| 02/05/2025 | [Staff Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310686) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
-| 02/05/2025 | [Staff Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310793) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
-| 02/05/2025 | [Principal Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310857) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
-| 02/05/2025 | [Principal Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310678) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
-| 02/05/2025 | [Staff Full-Stack Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310645) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
-| 02/05/2025 | [Founding Full-Stack Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310782) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
-| 02/05/2025 | [Founding Full-Stack Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310767) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
-| 02/05/2025 | [Staff Full-Stack Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310821) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
-| 02/05/2025 | [Founding Full-Stack Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310824) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
-| 02/05/2025 | [Staff Full-Stack Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310603) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
-| 02/05/2025 | [Founding Frontend Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310828) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
-| 02/05/2025 | [Founding Frontend Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310713) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
-| 02/05/2025 | [Staff Frontend Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310709) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
-| 02/05/2025 | [Staff Frontend Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310661) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Remote - No Preference |
-| 02/05/2025 | [Staff Frontend Software Engineer - VC Backed Startups](https://algojobs.io/jobs/3310692) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | NYC - Hybrid |
-| 02/05/2025 | [Founding Frontend Software Engineer - VC Backed Startups (Senior/Staff)](https://algojobs.io/jobs/3310792) | [SignalFire](https://algojobs.io/company/signalfire/) | N/A | Bay Area - Hybrid |
-| 02/04/2025 | [Software Engineering Intern - Poland](https://algojobs.io/jobs/3048588) | [Samsara](https://algojobs.io/company/samsara/) | N/A | Remote - Poland |
-| 02/04/2025 | [Software Engineering Intern - London](https://algojobs.io/jobs/3048591) | [Samsara](https://algojobs.io/company/samsara/) | N/A | London, UK |
