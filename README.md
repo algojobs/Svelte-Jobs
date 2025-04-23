@@ -1,14 +1,26 @@
 # Svelte Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 04/14/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/23/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Svelte Jobs](https://algojobs.io/jobs/svelte)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 04/21/2025 | [Senior Software Engineer, Frontend](https://algojobs.io/jobs/3849535) | [Narvar](https://algojobs.io/company/narvar/) | N/A | Remote- Canada |
+| 04/21/2025 | [Software Engineer (Remote) (Position located in Brazil)](https://algojobs.io/jobs/3850497) | [KnowBe4](https://algojobs.io/company/knowbe4/) | N/A | São Paulo, Brazil (Remote) |
+| 04/21/2025 | [Software Engineer, Web (7+ years of experience)](https://algojobs.io/jobs/3851676) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
+| 04/18/2025 | [Software Engineer - Front End](https://algojobs.io/jobs/3842528) | [Woolpert, Inc.](https://algojobs.io/company/woolpert/) | $82K - $144K | US (Remote) |
+| 04/18/2025 | [Sr. Software Engineer - .NET](https://algojobs.io/jobs/3842526) | [Woolpert, Inc.](https://algojobs.io/company/woolpert/) | $96K - $169K | US (Remote) |
+| 04/17/2025 | [Senior Backend Engineer (LATAM)](https://algojobs.io/jobs/3829404) | [Workera AI](https://algojobs.io/company/workera/) | N/A | Remote |
+| 04/17/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3827492) | [Trulioo](https://algojobs.io/company/trulioo/) | $100K - $150K | Vancouver, BC |
+| 04/16/2025 | [Frontend Engineer, JetBrains](https://algojobs.io/jobs/3814545) | [Augment Code](https://algojobs.io/company/augmentcomputing/) | $225K - $300K | Palo Alto, California, United States |
+| 04/16/2025 | [Senior Full Stack Developer - PiktoChart](https://algojobs.io/jobs/3815302) | [ThriveCart](https://algojobs.io/company/thrivecart/) | N/A | Remote (APAC or EU) |
+| 04/16/2025 | [Software Engineer Front-End Web3](https://algojobs.io/jobs/3814980) | [Aztec](https://algojobs.io/company/aztec/) | N/A | London UK |
+| 04/15/2025 | [Senior Frontend Engineer](https://algojobs.io/jobs/3802283) | [Defense Unicorns](https://algojobs.io/company/defenseunicorns/) | $180K - $219K | United State - Remote |
+| 04/15/2025 | [Senior Software Engineer - Backend Full Stack](https://algojobs.io/jobs/3785736) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
+| 04/15/2025 | [Intermediate Software Engineer (JavaScript, Svelte) - OP01719-OS](https://algojobs.io/jobs/3798119) | [Dev.Pro](https://algojobs.io/company/devpro/) | N/A | São Paulo, São Paulo, Brazil (Remote) |
 | 04/10/2025 | [Senior Software Engineer, Core Services & Resilience (Backend Full Stack)](https://algojobs.io/jobs/3758975) | [Viam](https://algojobs.io/company/viamrobotics/) | N/A | New York, NY |
 | 04/09/2025 | [Principal Software Engineer - (Principal/Senior)](https://algojobs.io/jobs/3716578) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
-| 04/09/2025 | [Software Engineer, Web (7+ years of experience)](https://algojobs.io/jobs/3745475) | [Captions](https://algojobs.io/company/captions/) | N/A | Union Square, New York City |
 | 04/08/2025 | [Software Engineer - Front-End Full Stack (Mid-Senior)](https://algojobs.io/jobs/3716587) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Sydney, Australia |
 | 04/08/2025 | [Principal Software Engineer - Front-End Full Stack](https://algojobs.io/jobs/3716580) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
 | 04/08/2025 | [Full-Stack Software Developer AI/ML Platform](https://algojobs.io/jobs/3722644) | [Autodesk](https://algojobs.io/company/autodesk/) | N/A | Toronto, ON, CAN / Montreal, QC, CAN / Vancouver, BC, CAN |
@@ -18,31 +30,8 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 04/04/2025 | [Software Engineer (Full Stack)](https://algojobs.io/jobs/3682866) | [LEAP Legal Software](https://algojobs.io/company/leap-legal-software/) | N/A | Sydney, New South Wales, Australia (Hybrid) |
 | 04/03/2025 | [Senior Full Stack Developer](https://algojobs.io/jobs/3683617) | [Syntronic](https://algojobs.io/company/syntronic/) | N/A | Kanata, ON |
 | 04/01/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/3655288) | [CitySwift](https://algojobs.io/company/cityswift/) | N/A | Galway, Ireland or Remote |
-| 03/31/2025 | [Software Engineer - Python (TS/SCI Clearance Required)](https://algojobs.io/jobs/3639528) | [North Point Technology](https://algojobs.io/company/northpointtechnology/) | N/A | Saint Louis, Missouri, United States |
 | 03/31/2025 | [Staff Software Engineer, Alterya](https://algojobs.io/jobs/3642534) | [Chainalysis](https://algojobs.io/company/chainalysis-careers/) | N/A | Tel Aviv Office |
 | 03/24/2025 | [Software Engineer](https://algojobs.io/jobs/3570872) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | IN - Bangalore, India |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566476) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Greater Porto Alegre (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566478) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Belo Horizonte, Minas Gerais, Brazil (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566491) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Montevideo, Montevideo, Uruguay (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566492) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Mexico City (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566493) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Buenos Aires Province (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566496) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Recife, Pernambuco, Brazil (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566506) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Greater Fortaleza (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566508) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Bogota,D.C., Capital District (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566531) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Brasília, Federal District, Brazil (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566543) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Mendoza, Mendoza, Argentina (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566544) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Florianópolis, Santa Catarina, Brazil (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566549) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Greater Curitiba (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566555) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Guadalajara, Jalisco (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566580) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Cordoba (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566590) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Rio de Janeiro, Rio de Janeiro, Brazil (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566597) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | San José, San Jose, Costa Rica (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566600) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | São Paulo (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566601) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Medellin, Antioquia (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566604) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Lima (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566607) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Costa Rica (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566614) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Guatemala (Remote) |
-| 03/24/2025 | [Frontend Developer (Svelte + Bootstrap)](https://algojobs.io/jobs/3566628) | [Oowlish Technology](https://algojobs.io/company/oowlish/) | N/A | Salvador, Bahia (Remote) |
 | 03/19/2025 | [Snr. Software Engineer (Python, C#, Rust) (Remote in the United Kingdom)](https://algojobs.io/jobs/3526743) | [KnowBe4](https://algojobs.io/company/knowbe4/) | N/A | London, United Kingdom (Remote) |
 | 03/18/2025 | [Senior Software Engineer, Frontend, Digital Twin Platform](https://algojobs.io/jobs/3508957) | [Woven by Toyota](https://algojobs.io/company/woven-by-toyota/) | N/A | Tokyo (Hybrid) |
 | 03/17/2025 | [Software Engineer](https://algojobs.io/jobs/3498880) | [Alteryx, Inc.](https://algojobs.io/company/alteryx/) | N/A | Bangalore, India |
@@ -58,7 +47,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/10/2025 | [Mission Operations - Full Stack Developer](https://algojobs.io/jobs/3424306) | [Lynk](https://algojobs.io/company/lynk/) | N/A | Lynk US Headquarters |
 | 03/09/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3417406) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | IN - Bangalore, India |
 | 03/06/2025 | [Frontend Software Engineer - Casino](https://algojobs.io/jobs/3403466) | [Easygo Gaming](https://algojobs.io/company/easygo/) | N/A | Melbourne, Australia |
-| 03/06/2025 | [Senior Frontend Developer - PiktoChart](https://algojobs.io/jobs/3388420) | [ThriveCart](https://algojobs.io/company/thrivecart/) | N/A | Remote (APAC or EU) |
 | 03/04/2025 | [Software Engineer II (Secret Cleared)](https://algojobs.io/jobs/3360429) | [Fearless](https://algojobs.io/company/fearless/) | $131K - $161K | Baltimore, MD or Remote |
 | 03/04/2025 | [Senior Software Engineer-Full Stack Developer](https://algojobs.io/jobs/3345645) | [Samsara](https://algojobs.io/company/samsara/) | $93K - $121K | Canada - Remote |
 | 03/04/2025 | [Senior Software Engineer-Full Stack Developer](https://algojobs.io/jobs/3345638) | [Samsara](https://algojobs.io/company/samsara/) | $95K - $128K | Charlotte, NC |
@@ -70,4 +58,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/27/2025 | [Software Development Engineer](https://algojobs.io/jobs/3315545) | [ADUS-Adobe Inc.](https://algojobs.io/company/adobe/) | $133K - $242K | San Jose, United States of America |
 | 02/26/2025 | [Frontend Engineer (Dublin, CA)](https://algojobs.io/jobs/3282944) | [Articul8](https://algojobs.io/company/articul8/) | N/A | Dublin, CA (HQ) |
 | 02/25/2025 | [Lead Software Engineer, UI](https://algojobs.io/jobs/3253394) | [Couchbase, Inc.](https://algojobs.io/company/couchbaseinc/) | N/A | Bangalore, India |
-| 02/21/2025 | [Frontend Engineer](https://algojobs.io/jobs/3232484) | [Blockdaemon](https://algojobs.io/company/blockdaemon/) | N/A | New York City |
